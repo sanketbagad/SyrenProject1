@@ -1,4 +1,5 @@
 import React from 'react'
+import Fapps from '../../Components/Fapps/Fapps'
 import "./fav.css"
 
 const Favourites = () => {
@@ -9,6 +10,7 @@ const Favourites = () => {
             <p className='f-feed'>Send Feedback <span><i class="fal fa-comments"></i></span></p>
             </div>
            
+        <Fapps />
         </div>
     )
 }

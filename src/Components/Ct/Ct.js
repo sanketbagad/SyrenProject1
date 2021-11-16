@@ -3,15 +3,16 @@ import "./ct.css"
 
 const Ct = () => {
     return (
-        <div>
+        <div className='ct'>
+            <div className='ct-nav'>
            <div>
-               <span>i</span>
+               <span><i class="fal fa-star"></i></span>
                <h3>WholeSaler Inventory</h3>
            </div>
            <div>
                <span>i</span>
            </div>
-
+            </div>
            <div>
                <ul>
                    <li>Exception mgmt tool</li>

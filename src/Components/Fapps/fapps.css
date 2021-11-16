@@ -1,0 +1,10 @@
+.fapps {
+    background-color: coral;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+}
+
+.f-title{
+    display: flex;
+}

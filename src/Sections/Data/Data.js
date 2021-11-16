@@ -1,4 +1,5 @@
 import React from 'react'
+import Dv from '../../Components/Dv/Dv'
 import "./data.css"
 
 const Data = () => {
@@ -9,6 +10,7 @@ const Data = () => {
             {/* <p className='d-feed'>Send Feedback <span><i class="fal fa-comments"></i></span></p> */}
             </div>
            
+           <Dv />
         </div>
     )
 }

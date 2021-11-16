@@ -1,14 +1,15 @@
 import React from 'react'
+import "./fapps.css"
 
 const Fapps = () => {
     return (
-        <div>
-        <div>
+        <div className='fapps'>
+        <div className='f-title'>
             <span>i</span>
-            <h3>Connected Visibility</h3>
+            <h3>Exception mgmt tool</h3>
         </div>
         <div>
-            <span>i</span>
+        <span><i class="fal fa-star"></i></span>
         </div>
      </div>
     )

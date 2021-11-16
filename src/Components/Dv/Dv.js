@@ -3,15 +3,16 @@ import "./dv.css"
 
 const Dv = () => {
     return (
-        <div>
-           <div>
-               <span>i</span>
+        <div className='dv'>
+            <div className='dv-nav'>
+           <div className='dv-title'>
+           <span><i class="fal fa-star"></i></span>
                <h3>Connected Visibility</h3>
            </div>
            <div>
-               <span>i</span>
+           <span><i class="fal fa-star"></i></span>
            </div>
-
+            </div>
            <div>
                <ul>
                    <li>long label tool</li>

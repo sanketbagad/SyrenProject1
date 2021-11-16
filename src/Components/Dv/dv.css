@@ -1,0 +1,13 @@
+.dv {
+display: flex;
+flex-direction: column;
+width: fit-content;
+height: fit-content;
+border: 3rem;
+background-color: blue;
+}
+
+.dv-nav{
+    display: flex;
+    align-items: center;
+}

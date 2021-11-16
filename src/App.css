@@ -6,3 +6,8 @@
 body{
   background-color: #fafafa;
 }
+
+.app{
+  box-sizing: border-box;
+  align-items: flex-start;
+}

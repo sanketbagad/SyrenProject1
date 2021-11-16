@@ -7,7 +7,7 @@ const Control = () => {
     return (
         <div className='c'>
         <div className='c-nav'>
-        <h2 className='c-title'><span><i class="fal fa-star"></i></span>Control Tower</h2>
+        <h2 className='c-title'><i class="fas fa-bars"></i>Control Tower</h2>
         <form action="/action_page.php">
   <label for="cars"></label>
   <select id="cars" name="cars">

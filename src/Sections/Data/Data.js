@@ -6,7 +6,7 @@ const Data = () => {
     return (
         <div className='d'>
             <div className='d-nav'>
-            <h2 className='d-title'><span><i class="fal fa-star"></i></span>Data Virtualization</h2>
+            <h2 className='d-title'><i class="fas fa-bars"></i>Data Virtualization</h2>
             {/* <p className='d-feed'>Send Feedback <span><i class="fal fa-comments"></i></span></p> */}
             </div>
            

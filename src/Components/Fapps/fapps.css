@@ -1,12 +1,12 @@
 .fapps {
-    background-color: coral;
+    background-color: #d5def5;
     width: fit-content;
     height: fit-content;
     display: flex;
     align-items: center;
     justify-content: center;
     border-style: solid;
-    border-top: deepskyblue;
+    border-top: deepskyblue solid;
 }
 
 .f-title{

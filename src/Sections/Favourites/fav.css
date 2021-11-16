@@ -1,5 +1,6 @@
 .f{
-
+    display: flex;
+    flex-direction: column;
 }
 
 .f-nav {
@@ -11,4 +12,9 @@
     background-color: #fafafa;
     border-bottom: 1px solid #eaeaea;
     height: 20px;
+}
+
+h2{
+    font-size: large;
+    color: #070f4e;
 }

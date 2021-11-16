@@ -11,4 +11,5 @@ border-top: deepskyblue;
 .dv-nav{
     display: flex;
     align-items: center;
+    justify-content: center;
 }

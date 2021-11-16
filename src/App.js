@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
      <Favourites />
+    <Control />
      <Data />
-     <Control />
     </div>
   );
 }

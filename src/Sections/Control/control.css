@@ -1,0 +1,18 @@
+.c{
+
+}
+
+.c-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: #fafafa;
+    border-bottom: 1px solid #eaeaea;
+    height: 20px;
+}
+
+.c-d {
+    align-self: flex-end;
+}

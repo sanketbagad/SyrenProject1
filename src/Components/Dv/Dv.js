@@ -13,7 +13,7 @@ const Dv = () => {
            <span><i class="fal fa-star"></i></span>
            </div>
             </div>
-           <div>
+           <div className='dv-content'>
                <ul>
                    <li>long label tool</li>
                    <li>long label tool</li>

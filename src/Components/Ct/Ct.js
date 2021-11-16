@@ -6,14 +6,14 @@ const Ct = () => {
         <div className='ct'>
             <div className='ct-nav'>
            <div>
-               <span><i class="fal fa-star"></i></span>
+               <span className='icon-1'><i class="fal fa-star"></i></span>
                <h3>WholeSaler Inventory</h3>
            </div>
            <div>
-               <span>i</span>
+           <span className='icon-2'><i class="fal fa-star"></i></span>
            </div>
             </div>
-           <div>
+           <div className='ct-content'>
                <ul>
                    <li>Exception mgmt tool</li>
                    <li>Use Case Management</li>

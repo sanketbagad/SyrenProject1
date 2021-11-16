@@ -4,7 +4,8 @@
     background-color: aqua;
     width: fit-content;
     height: fit-content;
-   
+    border-style: solid;
+    border-top: deepskyblue;
 }
 
 .ct-nav{

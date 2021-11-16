@@ -5,11 +5,11 @@ const Fapps = () => {
     return (
         <div className='fapps'>
         <div className='f-title'>
-            <span>i</span>
-            <h3>Exception mgmt tool</h3>
+        <span className='icon-1'><i class="fal fa-star"></i></span>
+            <h3 className='f-name'>Exception mgmt tool</h3>
         </div>
         <div>
-        <span><i class="fal fa-star"></i></span>
+        <span className='icon-2'><i class="fal fa-star"></i></span>
         </div>
      </div>
     )

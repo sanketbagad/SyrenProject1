@@ -3,8 +3,19 @@
     width: fit-content;
     height: fit-content;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-top: deepskyblue;
 }
 
 .f-title{
     display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.f-name{
+    font-size: 1rem;
+    font-weight: 700;
 }
